@@ -1,8 +1,8 @@
 {
-    "url": "https://raw.githubusercontent.com/anony2001/xss_test/main/swagger.yaml",
+    "url": "https://raw.githubusercontent.com/ab112211/testing/main/swagger.yaml",
     "urls": [
         {
-            "url": "https://raw.githubusercontent.com/anony2001/xss_test/main/swagger.yaml",
+            "url": "https://raw.githubusercontent.com/ab112211/testing/main/swagger.yaml",
             "name": "XSS By Abdul Manan"
         }
     ]
